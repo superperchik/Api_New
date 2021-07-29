@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EFCoreCodeFirstSample\\EFCoreCodeFirstSample.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Api_New\\Api_New\\EFCoreCodeFirstSample\\EFCoreCodeFirstSample.csproj",
       "projectName": "EFCoreCodeFirstSample",
-      "projectPath": "C:\\Users\\User\\source\\repos\\EFCoreCodeFirstSample\\EFCoreCodeFirstSample.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Api_New\\Api_New\\EFCoreCodeFirstSample\\EFCoreCodeFirstSample.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\EFCoreCodeFirstSample\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Api_New\\Api_New\\EFCoreCodeFirstSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

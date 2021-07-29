@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace EFCoreCodeFirstSample.Models
 {
-    public class AuditableEntity //: IAuditableEntity Тут наверное какой-то другой класс или создать именно его?
+    public class AuditableEntity //: DbContext //: IAuditableEntity Тут наверное какой-то другой класс или создать именно его?
     {
         [Column("id", Order = 0)]
         [Key]
